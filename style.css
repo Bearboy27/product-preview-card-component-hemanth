@@ -52,7 +52,7 @@ h1.pro-cat{
     font-weight: 500;
 }
 
-h6.pro-name{
+h2.pro-name{
     font-family: 'Fraunces', serif;
     font-size: 34px;
     line-height: 1em;
@@ -114,7 +114,7 @@ button.cta img{
     .card-content{
         display: block;
     }
-    h1.pro-cat, h6.pro-name, p.pro-des, .price{
+    h1.pro-cat, h2.pro-name, p.pro-des, .price{
         padding-bottom: 23px;
     }
 }
@@ -130,10 +130,10 @@ button.cta img{
     .card-content{
         padding: 24px;
     }
-    h1.pro-cat, h6.pro-name, p.pro-des, .price{
+    h1.pro-cat, h2.pro-name, p.pro-des, .price{
         padding-bottom: 16px;
     }
-    h6.pro-name{
+    h2.pro-name{
         font-size: 28px;
     }
     p.pro-des{
