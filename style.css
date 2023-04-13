@@ -44,7 +44,7 @@ body{
     justify-content: space-between;
 }
 
-h2.pro-cat{
+h1.pro-cat{
     text-transform: uppercase;
     letter-spacing: 3px;
     font-size: 13px;
@@ -114,7 +114,7 @@ button.cta img{
     .card-content{
         display: block;
     }
-    h2.pro-cat, h6.pro-name, p.pro-des, .price{
+    h1.pro-cat, h6.pro-name, p.pro-des, .price{
         padding-bottom: 23px;
     }
 }
@@ -130,7 +130,7 @@ button.cta img{
     .card-content{
         padding: 24px;
     }
-    h2.pro-cat, h6.pro-name, p.pro-des, .price{
+    h1.pro-cat, h6.pro-name, p.pro-des, .price{
         padding-bottom: 16px;
     }
     h6.pro-name{
